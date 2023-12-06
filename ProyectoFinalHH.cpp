@@ -1,6 +1,6 @@
 #include <iostream>
 #include <limits> // Para limpiar el buffer del cin después de leer un tipo incorrecto
-cout << "Grupo: 1158" << endl;
+cout << "Turno: Vespertino" << endl;
 using namespace std;
 int main() 
 {
