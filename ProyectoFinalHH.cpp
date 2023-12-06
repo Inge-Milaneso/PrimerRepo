@@ -1,6 +1,6 @@
 #include <iostream>
 #include <limits> // Para limpiar el buffer del cin después de leer un tipo incorrecto
-cout << "fecha 16/08/2005" << endl;
+cout << "lo que pasara en mi compu" << endl;
 using namespace std;
 int main() 
 {
